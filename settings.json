@@ -1,6 +1,7 @@
 {
-  "alwaysThinkingEnabled": true,
   "enabledPlugins": {
-    "microsoft-docs@microsoft-docs-marketplace": true
-  }
+    "microsoft-docs@microsoft-docs-marketplace": true,
+    "ralph-skills@ralph-marketplace": true
+  },
+  "alwaysThinkingEnabled": true
 }

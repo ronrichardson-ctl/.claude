@@ -10,6 +10,16 @@
         "lastUpdated": "2026-01-28T22:42:56.224Z",
         "gitCommitSha": "919a92885ea19668259998c67f721b5a8d8c46a7"
       }
+    ],
+    "ralph-skills@ralph-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\ronri\\.claude\\plugins\\cache\\ralph-marketplace\\ralph-skills\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-02-06T03:14:14.803Z",
+        "lastUpdated": "2026-02-06T03:14:14.803Z",
+        "gitCommitSha": "6c53cb0b831ebe8739c6a003e22af14902d8b0b5"
+      }
     ]
   }
 }

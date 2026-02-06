@@ -5,7 +5,7 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "C:\\Users\\ronri\\.claude\\plugins\\marketplaces\\claude-plugins-official",
-    "lastUpdated": "2026-02-05T20:49:51.719Z"
+    "lastUpdated": "2026-02-06T03:13:32.750Z"
   },
   "microsoft-docs-marketplace": {
     "source": {
@@ -14,5 +14,13 @@
     },
     "installLocation": "C:\\Users\\ronri\\.claude\\plugins\\marketplaces\\microsoft-docs-marketplace",
     "lastUpdated": "2026-01-28T22:42:39.078Z"
+  },
+  "ralph-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "snarktank/ralph"
+    },
+    "installLocation": "C:\\Users\\ronri\\.claude\\plugins\\marketplaces\\ralph-marketplace",
+    "lastUpdated": "2026-02-06T03:13:51.939Z"
   }
 }
