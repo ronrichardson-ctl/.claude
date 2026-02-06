@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "plugins": {
+    "microsoft-docs@microsoft-docs-marketplace": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\ronri\\.claude\\plugins\\cache\\microsoft-docs-marketplace\\microsoft-docs\\0.2.0",
+        "version": "0.2.0",
+        "installedAt": "2026-01-28T22:42:56.224Z",
+        "lastUpdated": "2026-01-28T22:42:56.224Z",
+        "gitCommitSha": "919a92885ea19668259998c67f721b5a8d8c46a7"
+      }
+    ]
+  }
+}

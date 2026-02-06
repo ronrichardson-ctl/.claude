@@ -1,0 +1,18 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\ronri\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-02-05T20:49:51.719Z"
+  },
+  "microsoft-docs-marketplace": {
+    "source": {
+      "source": "github",
+      "repo": "microsoftdocs/mcp"
+    },
+    "installLocation": "C:\\Users\\ronri\\.claude\\plugins\\marketplaces\\microsoft-docs-marketplace",
+    "lastUpdated": "2026-01-28T22:42:39.078Z"
+  }
+}
